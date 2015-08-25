@@ -1,0 +1,14 @@
+#summary Use as a library description
+
+= Introduction =
+
+This page will show how to use this software as a library
+
+
+= Details =
+
+* Download the appropiate part you want to use: mailApi(http://zir-mail-server.googlecode.com/files/mailApi.jar), mailClient(http://zir-mail-server.googlecode.com/files/mailClient.jar) or mailServer(http://zir-mail-server.googlecode.com/files/mailServer.jar) or any combinations of them.
+
+* Download the javadocs if you want to: mailApi(http://zir-mail-server.googlecode.com/files/mailApi-javadoc.zip), mailClient(http://zir-mail-server.googlecode.com/files/mailClient-javadoc.zip), mailServer(http://zir-mail-server.googlecode.com/files/mailServer-javadoc.zip).
+
+* Enjoy!

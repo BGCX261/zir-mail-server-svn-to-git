@@ -1,0 +1,22 @@
+#summary How to use this software
+
+= Introduction =
+
+Here you will learn what do you have to do in order to simply use this software
+
+
+= Details =
+
+* Download mailServer.zip (http://zir-mail-server.googlecode.com/files/mailServer.zip)
+
+* Uncompress the zip file
+
+* Edit conf/server.properties to match your needs
+
+* Launch it with "java -jar bin/mailServer.jar" or install it as a service (windows enviroment)
+
+= Installing as a service =
+
+* Edit bin/jsl.ini wrkdir and cmdline props under the "java" section to match your installation dir
+
+* Run bin/jsl.exe -install

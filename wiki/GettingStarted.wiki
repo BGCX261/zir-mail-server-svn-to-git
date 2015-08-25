@@ -1,0 +1,14 @@
+#summary Getting Started Page
+
+= Introduction =
+
+This page will try to describe the different ways of getting started with this project.
+
+
+= Details =
+
+* If you want simply to use the software, please go to [UseSoftware]
+
+* If you want to use this software as a library for other software you're writing, please go to [UseLibrary]
+
+* If you want to modify or extend this software, please checkout the code via SVN and let me know if you want to submit a patch or need assistance!
